@@ -1,0 +1,26 @@
+<mat-card class="example-card">
+    <div class="example-button-container">
+        <!-- ראיתי לנכון  לא לאפשר מחיקה לאחר השמירה -->
+        <button class="deleteButton" mat-button *ngIf="collectionServ.arrayLength == imageDeatails?.imageNumber && !saved"
+            (click)=collectionServ.deleteImage()>
+            <mat-icon>delete_outline</mat-icon>
+        </button>
+        <div class="added" *ngIf="saved">
+            <mat-icon>check_circle</mat-icon>
+            התווסף בהצלחה
+        </div>
+    </div>
+    <label>מספר תמונה</label>
+    <mat-form-field class="example-full-width">
+        <input matInput value="{{imageDeatails?.imageNumber}}" disabled>
+    </mat-form-field>
+    <label>נתיב שמירת התמונה</label>
+    <mat-form-field class="example-full-width">
+        <input matInput value="{{imageDeatails?.imagePath}}.jpg" disabled>
+    </mat-form-field>
+    <mat-label *ngIf="isImageback.value">נתיב שמירת גב התמונה</mat-label>
+    <mat-form-field class="example-full-width" *ngIf="isImageback.value">
+        <input matInput value="{{imageDeatails?.imagePath}}_xx.jpg" disabled>
+    </mat-form-field>
+    <mat-checkbox class="example-margin" [formControl]="isImageback">גב תמונה</mat-checkbox>
+</mat-card>

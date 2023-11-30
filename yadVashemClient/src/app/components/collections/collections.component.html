@@ -1,0 +1,39 @@
+<mat-card>
+    <h1>סריקת אוסף</h1>
+    <div class="md-toolbar-tools">
+        <form [formGroup]="collectionForm" (ngSubmit)="onSubmit()">
+            <div class="form-group">
+                <mat-form-field class="example-full-width">
+                    <mat-label>הכנס מספר אוסף</mat-label>
+                    <label for="collectionNumber" class="field-required"></label>
+                    <input matInput type="tel" formControlName="collectionNumber" name="collectionNumber"
+                        class="form-control"
+                        [ngClass]="{ 'is-invalid': collectionNumberControl?.errors && (collectionNumberControl?.dirty || collectionNumberControl?.touched) }" />
+                </mat-form-field>
+                <div
+                    *ngIf="collectionNumberControl.errors && (collectionNumberControl?.dirty || collectionNumberControl?.touched)">
+                </div>
+            </div>
+            <button class="next" mat-raised-button color="primary">
+                <mat-icon>chevron_left</mat-icon>
+                <span> הבא</span>
+            </button>
+        </form>
+        <div *ngIf="submitted">
+            <mat-form-field class="example-full-width">
+                <mat-label>שם האוסף</mat-label>
+                <input matInput value="{{collectionServ.newCollection.title}}" disabled>
+            </mat-form-field>
+            <div *ngFor="let image of collectionServ.imagesArray">
+                <app-add-image [newCollection]="collectionServ.newCollection" [imageDeatails]="image"
+                    [saved]="image.saved"></app-add-image>
+            </div>
+            <button mat-button color="primary" *ngIf="ifNUmberCorrect == true" (click)="collectionServ.addImage()">צרף
+                תמונה נוספת</button>
+        </div>
+    </div>
+    <button *ngIf="collectionServ.arrayLength!=0" class="saveButton" mat-raised-button color="primary" (click)="save()">
+        שמירה
+        <mat-icon>chevron_left</mat-icon>
+    </button>
+</mat-card>

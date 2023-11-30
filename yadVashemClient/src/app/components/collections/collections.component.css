@@ -1,0 +1,39 @@
+mat-card{
+    width: 55%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.form-control{
+    width: 100%;
+    margin-top: 5%;
+}
+.mat-mdc-form-field{
+    width: 80%;
+    text-align: right;
+    direction: rtl;
+    margin-left: 10%;
+}
+h1{
+    text-align: center;
+    direction: rtl;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5%;
+    font-size: 30px;
+    color:blue
+}
+html, body {
+    height: 100%;
+    background-color: aqua;
+}
+ button{
+    margin-top: 5%;
+    margin-left: 80%;
+    margin-bottom: 10%;
+}
+
+.saveButton{
+    width: 30%;
+    margin-right: 60%;
+    margin-left: 35%;
+    margin-top: 5%;
+}

@@ -1,0 +1,135 @@
+C:\Users\משתמש זה\Desktop\collections\collections\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\משתמש זה\Desktop\collections\collections\bin\Debug\net6.0\appsettings.json
+C:\Users\משתמש זה\Desktop\collections\collections\bin\Debug\net6.0\collections.exe
+C:\Users\משתמש זה\Desktop\collections\collections\bin\Debug\net6.0\collections.deps.json
+C:\Users\משתמש זה\Desktop\collections\collections\bin\Debug\net6.0\collections.runtimeconfig.json
+C:\Users\משתמש זה\Desktop\collections\collections\bin\Debug\net6.0\collections.dll
+C:\Users\משתמש זה\Desktop\collections\collections\bin\Debug\net6.0\collections.pdb
+C:\Users\משתמש זה\Desktop\collections\collections\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\משתמש זה\Desktop\collections\collections\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\משתמש זה\Desktop\collections\collections\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\משתמש זה\Desktop\collections\collections\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\collections.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\collections.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\collections.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\collections.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\collections.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\staticwebassets\msbuild.collections.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\staticwebassets\msbuild.build.collections.props
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.collections.props
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.collections.props
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\scopedcss\bundle\collections.styles.css
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\collections.csproj.CopyComplete
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\collections.dll
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\refint\collections.dll
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\collections.pdb
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\collections.genruntimeconfig.cache
+C:\Users\משתמש זה\Desktop\collections\collections\obj\Debug\net6.0\ref\collections.dll
+C:\Users\משתמש זה\Desktop\collections\collections\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\bin\Debug\net6.0\appsettings.json
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\bin\Debug\net6.0\collections.exe
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\bin\Debug\net6.0\collections.deps.json
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\bin\Debug\net6.0\collections.runtimeconfig.json
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\bin\Debug\net6.0\collections.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\bin\Debug\net6.0\collections.pdb
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\collections.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\collections.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\collections.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\collections.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\collections.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\staticwebassets\msbuild.collections.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\staticwebassets\msbuild.build.collections.props
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.collections.props
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.collections.props
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\scopedcss\bundle\collections.styles.css
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\collections.csproj.CopyComplete
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\collections.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\refint\collections.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\collections.pdb
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\collections.genruntimeconfig.cache
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\collections\collections\obj\Debug\net6.0\ref\collections.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\bin\Debug\net6.0\appsettings.json
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\bin\Debug\net6.0\collections.exe
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\bin\Debug\net6.0\collections.deps.json
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\bin\Debug\net6.0\collections.runtimeconfig.json
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\bin\Debug\net6.0\collections.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\bin\Debug\net6.0\collections.pdb
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\collections.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\collections.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\collections.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\collections.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\collections.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\staticwebassets\msbuild.collections.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\staticwebassets\msbuild.build.collections.props
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.collections.props
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.collections.props
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\scopedcss\bundle\collections.styles.css
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\collections.csproj.CopyComplete
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\collections.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\refint\collections.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\collections.pdb
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\collections.genruntimeconfig.cache
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\obj\Debug\net6.0\ref\collections.dll
+C:\Users\משתמש זה\Desktop\תרגיל יד ושם\yadVashemServer\collections\bin\Debug\net6.0\collections.json
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\bin\Debug\net6.0\appsettings.json
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\bin\Debug\net6.0\collections.json
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\bin\Debug\net6.0\collections.exe
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\bin\Debug\net6.0\collections.deps.json
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\bin\Debug\net6.0\collections.runtimeconfig.json
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\bin\Debug\net6.0\collections.dll
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\bin\Debug\net6.0\collections.pdb
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\collections.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\collections.AssemblyInfoInputs.cache
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\collections.AssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\collections.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\collections.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\staticwebassets\msbuild.collections.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\staticwebassets\msbuild.build.collections.props
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.collections.props
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.collections.props
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\scopedcss\bundle\collections.styles.css
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\collections.csproj.CopyComplete
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\collections.dll
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\refint\collections.dll
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\collections.pdb
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\collections.genruntimeconfig.cache
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\obj\Debug\net6.0\ref\collections.dll
+C:\Users\משתמש זה\Desktop\הורדה מגיטהאב\yadVashem\yadVashemServer\collections\bin\Debug\net6.0\DB\collections.json
